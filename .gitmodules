@@ -1,0 +1,9 @@
+[submodule "kunwind"]
+	path = kunwind
+	url = https://github.com/giraldeau/kunwind.git
+[submodule "lttng-modules"]
+	path = lttng-modules
+	url = https://github.com/giraldeau/lttng-modules.git
+[submodule "lttng-tools"]
+	path = lttng-tools
+	url = https://github.com/giraldeau/lttng-tools.git
